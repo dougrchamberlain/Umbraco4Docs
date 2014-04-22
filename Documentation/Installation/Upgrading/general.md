@@ -72,6 +72,9 @@ So no need to be scared. Just enter the details of your existing database and Um
 Since version 4.0.0 there have been two database upgrades, one to version 4.1.0 and one to version 4.9.0.  
 Version 6 introduces a large database upgrade and still handles all the previously necessary database upgrades too.
 
+##Courier and Contour
+Work in Progress
+
 ##Potential issues and gotchas
 
 ###Browser cache (mostly v7 related)
